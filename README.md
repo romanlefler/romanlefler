@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Roman 👋
+
+I'm a computer science student building desktop apps, full-stack applications, and lower-level projects.
+
+I maintain several projects for the GNOME desktop, a popular desktop environment for Linux and BSD. My GNOME projects have received over 200,000 combined downloads.
+
+I currently maintain [SimpleWeather](https://github.com/romanlefler/SimpleWeather), a weather extension for GNOME. It grew out of my fork of [OpenWeather](https://github.com/romanlefler/gnome-openweather), which I maintained for about a year before rewriting it in TypeScript and relaunching it as SimpleWeather.
+
+[LinkedIn](https://www.linkedin.com/in/roman-lefler/) | [Support My Open-Source Work](https://ko-fi.com/romanlefler)
 
 <!--
 **romanlefler/romanlefler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
