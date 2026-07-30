@@ -6,6 +6,8 @@ I maintain several projects for the GNOME desktop, a popular desktop environment
 
 I currently maintain [SimpleWeather](https://github.com/romanlefler/SimpleWeather), a weather extension for GNOME. It grew out of my fork of [OpenWeather](https://github.com/romanlefler/gnome-openweather), which I maintained for about a year before rewriting it in TypeScript and relaunching it as SimpleWeather.
 
+### [Check out my website](https://romanlefler.com)
+
 [LinkedIn](https://www.linkedin.com/in/roman-lefler/) | [Support My Open-Source Work](https://ko-fi.com/romanlefler)
 
 <!--
